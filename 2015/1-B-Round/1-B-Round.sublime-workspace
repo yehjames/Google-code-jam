@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cs",
+				"csv_file_object"
+			],
+			[
+				"pr",
+				"predictions"
+			],
+			[
+				"targe",
+				"targetTest"
+			],
+			[
+				"fea",
+				"featureTest"
+			],
+			[
+				"fi",
+				"fittedModel"
+			],
+			[
+				"De",
+				"DecisionTreeClassifier"
+			],
+			[
+				"tar",
+				"targetVariables"
+			],
+			[
+				"isi",
+				"irisData"
+			],
+			[
+				"iris",
+				"irisData"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"random",
+				"random_list"
+			],
+			[
+				"total",
+				"total_updates"
+			],
+			[
+				"ra",
+				"random_list"
+			],
+			[
+				"sl",
+				"Solution"
+			],
+			[
+				"long",
+				"longestCommonSubstring"
+			],
+			[
+				"sol",
+				"Solution"
+			],
+			[
+				"Lcs",
+				"lcs_temp"
+			],
+			[
+				"lcs",
+				"lcs_temp"
+			],
+			[
+				"str",
+				"strDict"
+			],
+			[
+				"a",
+				"anagrams"
+			],
+			[
+				"group",
+				"groupAnagrams"
+			],
+			[
+				"comm",
+				"commonString"
+			],
+			[
+				"s",
+				"string1"
+			],
+			[
+				"common",
+				"commonSize"
+			],
+			[
+				"index",
+				"index3"
+			],
+			[
+				"st",
+				"string2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 84.0,
+		"last_filter": "browse package",
+		"selected_items":
+		[
+			[
+				"browse package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"SublimeREPL",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"List Packages",
+				"Package Control: List Packages"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"fr",
+				"File: Rename"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"fr ",
+				"File: Rename"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yehjames/Documents/Google Code Jam/2015/1-B-Round"
+	],
+	"file_history":
+	[
+		"/Users/yehjames/Documents/Google Code Jam/2015/1-B-Round/ProblemA_Counter_Culture.py",
+		"/Users/yehjames/Documents/Kaggle/Expedia/sample_submission.csv",
+		"/Users/yehjames/Documents/Kaggle/Expedia/pred_sub.csv",
+		"/Users/yehjames/Documents/Kaggle/Expedia/test.csv",
+		"/Users/yehjames/Documents/Kaggle/Expedia/python_sol.py",
+		"/Users/yehjames/Documents/Kaggle/Expedia/pred_sub.csv 2016-04-22 00:43:06.759324",
+		"/Users/yehjames/Documents/Kaggle/Expedia/pred_sub2016-04-22 00:10:16.460147.csv ",
+		"/Users/yehjames/Documents/Kaggle/Expedia/train.csv",
+		"/Users/yehjames/Documents/Kaggle/Titanic/test.csv",
+		"/Users/yehjames/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yehjames/Documents/Kaggle/Titanic/titanic.py",
+		"/Users/yehjames/Documents/Kaggle/Santander/train.csv",
+		"/Users/yehjames/Documents/Kaggle/Titanic/train.csv",
+		"/Users/yehjames/.MacOSX/environment.plist",
+		"/Users/yehjames/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/yehjames/Documents/Kaggle/Titanic/gendermodel.csv",
+		"/Users/yehjames/Documents/Decision Tree/iris2.csv",
+		"/Users/yehjames/Documents/Google Code Jam/2016/1-A-round/2/B-small-attempt0.in-2.txt",
+		"/Users/yehjames/Documents/Google Code Jam/2016/B/test_case.txt",
+		"/Users/yehjames/Documents/Google Code Jam/2016/A_small_test.py",
+		"/Users/yehjames/Documents/Google Code Jam/2016/A_small.txt",
+		"/Users/yehjames/Documents/Google Code Jam/2016/A_Counting_Sheep.py",
+		"/Users/yehjames/Documents/Google Code Jam/2015/1.Standing_Ovation.py",
+		"/Users/yehjames/Downloads/B 3.java",
+		"/Users/yehjames/Downloads/B-large-practice.in.txt",
+		"/Users/yehjames/Downloads/1 - 1 - Welcome (7 min).txt",
+		"/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/test/test_math.py",
+		"/Users/yehjames/Documents/LeetCode/257. Binary Tree Paths",
+		"/Users/yehjames/Dropbox/Arduino自走車光碟內容/Arduino自走車套件：PS2遙控實驗/PS2X_Car/注意事項(必讀).txt",
+		"/Users/yehjames/Downloads/sido報名費匯款資訊.txt",
+		"/Users/yehjames/Documents/Machine Learning /HW1/ntumlone-hw1-hw1_15_train.dat",
+		"/Users/yehjames/Downloads/crack/install.txt",
+		"/Volumes/MATHWORKS_R2015B/readme.txt",
+		"/Users/yehjames/Dropbox/Arduino自走車光碟內容/Arduino自走車套件：PS2遙控實驗/PS2X_Lib/keywords.txt",
+		"/Users/yehjames/Dropbox/Arduino自走車光碟內容/Arduino自走車套件：PS2遙控實驗/五合一多功能實驗/注意事項(必讀).txt",
+		"/Users/yehjames/Downloads/subtitle.txt",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]LongestCommonSubstring.py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]SpaceReplacement",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Triangle_Sol1(T:2^n).py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Triangle_Sol2(T:2^n).py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Triangle_Sol3(T. n^2).py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Triangle_Sol4(T. n^2).py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Backpack_Sol1.py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Backpack2.py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]WildcardMatching",
+		"/Users/yehjames/Downloads/碩論TAAD程式碼/TaaD_20150224/ABCA_ShortestPath/ABCA.py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Anagrams.py",
+		"/Users/yehjames/Documents/LeetCode/[LintCode]Reverse Words in a String.py",
+		"/Users/yehjames/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/yehjames/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/yehjames/Documents/LeetCode/test1.py",
+		"/Users/yehjames/Documents/LeetCode/ValidSudoku.py",
+		"/Users/yehjames/Downloads/map-01-01.svg"
+	],
+	"find":
+	{
+		"height": 72.0
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_top5",
+			"destination_clusters",
+			"bar",
+			"statusbar",
+			"bar",
+			"status",
+			"key",
+			"np",
+			"overlay_scroll_bars",
+			"font_options",
+			"tab",
+			"NumArray",
+			"result",
+			"ran",
+			"print",
+			"update_times",
+			"times",
+			"update_times",
+			"61829",
+			"print",
+			"error_times",
+			"-1",
+			"line",
+			"index",
+			"buttons",
+			"button",
+			"PSB_PAD",
+			"PSB",
+			"WWWW",
+			"len(A)",
+			"int(m)",
+			"m[",
+			"v",
+			"m[i]",
+			"i",
+			"UTF-8",
+			"checkAnagrams",
+			"add",
+			"resultList",
+			"anagramsList",
+			"font",
+			"tmplist",
+			"index3",
+			"commonString2",
+			"index",
+			"index2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 72.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "1-B-Round.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 30.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
